@@ -189,4 +189,13 @@ This repository is for educational and quantitative research purposes only. It i
 
 ## Author
 
+Amit Singh (@nasaamit005)
+
+Quantitative Finance & Financial Data Analytics Portfolio Project
+
+Project: Mean-Reversion Pairs Trading Strategy
+
 Developed as a quantitative finance portfolio project to demonstrate Python-based financial data analysis, statistical research, backtesting, visualization, and software testing.
+
+
+
